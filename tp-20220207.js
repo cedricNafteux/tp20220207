@@ -1,5 +1,17 @@
 // tp du 07/02/2022
 
-let cedric =10;
+class Anniversaire {
 
-console.log(cedric);
+    constructor(nom, prenom, date, couleur) {
+
+        this.nom = nom;
+        this.prenom = prenom;
+        this.date = date;
+        this.couleur = couleur;
+
+    }
+
+
+}
+
+export default { Anniversaire };
