@@ -1,5 +1,3 @@
-// tp du 07/02/2022
-
 class Anniversaire {
 
     constructor(nom, prenom, date, couleur) {
